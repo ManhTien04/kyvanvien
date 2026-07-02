@@ -1,0 +1,2 @@
+const String stripePublishableKey = "pk_test_51Q13uOF4gjDClDwbwrrCJtJaICcf18Lr7U8zDsjb1ITosjj4IRI0wdwl1IR1JZTR7VpLZh5JpiK1C5kahFqldPni00a73gzPSR";
+const String stripeSecretKey = "YOUR_STRIPE_SECRET_KEY";
