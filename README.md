@@ -107,4 +107,4 @@
 
 ## 👥 Nhóm phát triển
 
-Dự án được phát triển bởi **Nhom1_T2208A_Project4**.
+Dự án được phát triển bởi **Mạnh Tiến**.
